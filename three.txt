@@ -1,2 +1,3 @@
 Hello my name is three
-My name is actually nine, not eight as ubuntu said
+My name is actually nine, not eight as ubuntu said. Don't try to argue with me.
+>>>>>>> 6bf30db7dd2b0ae1323c0753186a63c2bc268e69
